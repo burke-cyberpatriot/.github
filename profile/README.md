@@ -1,12 +1,9 @@
-## Hi there 👋
+# Burke CyberPatriot
 
-<!--
+This is simply a placeholder and will be filled at a later date (if at all). This organization is not officially related to Burke Composite Squadron (Civil Air Patrol Mid-Atlantic Region, Virginia Wing Unit 130) or Civil Air Patrol. 
 
-**Here are some ideas to get you started:**
+### Information on Civil Air Patrol
+Founded in 1941 and established as the official civilian auxiliary of the U.S. Air Force seven years later, Civil Air Patrol is chartered by Congress as a nonprofit organization for the purposes of youth development, aerospace education, and to promote general aviation. In an auxiliary role as a Total Force partner of the Air Force, CAP operates the world’s largest fleet of single-engine aircraft for search and rescue, disaster relief, training, and education. Civil Air Patrol is dedicated to serving America’s communities, saving lives, and shaping futures.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Visit [CAP.news](https://www.cap.news/) or [GoCivilAirPatrol.com](https://www.gocivilairpatrol.com/) for more information. Follow us on [Twitter](https://twitter.com/civilairpatrol), [Facebook](https://www.facebook.com/capnhq/), [Instagram](https://www.instagram.com/civilairpatrol/), [LinkedIn](https://www.linkedin.com/company/civil-air-patrol), and [YouTube](https://www.youtube.com/user/CAPMember).
+
